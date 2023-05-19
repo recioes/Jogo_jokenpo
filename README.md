@@ -1,7 +1,7 @@
 <h1 align="center"> JOKENPÔ! </h1>
 
 <p align="center">
-Este é um repositório contendo um projeto simples de Jokenpô desenvolvido em Python. O objetivo desse projeto é demonstrar o funcionamento básico do jogo e fornecer uma solução de código para referência. Você pode utilizar esse código como ponto de partida para projetos relacionados a jogos ou para praticar suas habilidades de programação em Python.
+Este é um repositório contendo um projeto simples de Jokenpô desenvolvido em Python. O objetivo desse projeto é demonstrar o funcionamento básico do jogo e fornecer uma solução de código.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -34,7 +34,7 @@ Durante a criação deste projeto, tive a oportunidade de aprender e aplicar vá
 
 Uma das principais coisas que aprendi foi o uso de dicionários. Pesquisei e estudei como eles funcionam e, em seguida, os apliquei no projeto. Os dicionários permitiram que eu representasse as relações de vitória entre as opções do jogo de forma clara e concisa. Foi incrível ver como essa estrutura de dados pode facilitar o acesso aos dados e simplificar a lógica do programa.
 
-Além disso, aprofundei meus conhecimentos sobre loops e estruturas de controle condicional. Utilizei o loop while para criar uma interação contínua com o usuário, permitindo que jogássemos várias partidas do jogo. As declarações if, elif e else foram essenciais para tomar decisões com base nas escolhas do usuário e do computador, determinando o resultado de cada rodada.
+Além disso, aprofundei meus conhecimentos sobre loops e estruturas de controle condicional. As declarações if, elif e else foram essenciais para tomar decisões com base nas escolhas do usuário e do computador, determinando o resultado de cada rodada.
 
 Outro aspecto interessante foi a utilização de listas para armazenar as opções disponíveis no jogo. Pude praticar o acesso e a manipulação dos elementos da lista, além de exibi-los ao usuário de maneira clara.
 
